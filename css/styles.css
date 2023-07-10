@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+}
+
+.heading {
+    padding: 50px 50px;
+    text-align: center;
+    color: aqua;
+    font-size: 40px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
